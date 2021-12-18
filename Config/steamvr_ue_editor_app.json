@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.dungeonescape-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/GameDev/Unreal Projects/DungeonEscape/DungeonEscape/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "DungeonEscape-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
